@@ -1,0 +1,5 @@
+{
+  "name": "Grace & Daily Bread",
+  "description": "A simple daily devotional application featuring a calendar, daily readings, and admin management tools.",
+  "requestFramePermissions": []
+}
